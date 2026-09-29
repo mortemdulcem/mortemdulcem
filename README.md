@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1124774075717303185" height="900" width="450" frameborder="0" scrolling="no" ></iframe>
+
 
 ## Merhaba
 
